@@ -41,7 +41,7 @@ def showing_parts():
                                       f"{answer.cost['Lira']} ₺")
 
 def payment_fun():
-
+    # this function make payment
     currency_name = currency_order.get()
     coffee_name = coffee_order.get()
     amount_money = enter_money.get()
