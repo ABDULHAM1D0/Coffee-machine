@@ -103,7 +103,7 @@ window.config(bg="lightsalmon")
 
 FONT_NAME = "Times"
 
-choosing_coffee = Label(window, text="coffee Tanlang:", font=(FONT_NAME, 18, "bold"), bg="lightsalmon", fg="black")
+choosing_coffee = Label(window, text="Choose Cofe:", font=(FONT_NAME, 18, "bold"), bg="lightsalmon", fg="black")
 choosing_coffee.grid(row=0, column=0, pady=20, padx=25, ipadx=5)
 
 coffee_order = StringVar(window)
