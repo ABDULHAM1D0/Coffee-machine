@@ -95,7 +95,7 @@ def product_works():
         answer.ingredients["sugar"] = sugar
 
 
-#---------------------------------------------BUILD GUI----------------------------------------#
+#---------------------------------------------BUILD GUI-----------------------------------------#
 
 window.title("Coffee Machine")
 window.geometry("915x550")
