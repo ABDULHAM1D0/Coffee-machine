@@ -22,10 +22,7 @@ This application allows users to interact with a virtual coffee machine through 
 - Clean OOP structure for maintainability and readability.
 - Separate classes for machine logic, menu, and GUI interactions.
 
-🛠 Technologies Used
-
-Python 3
-
-Tkinter (GUI)
-
-Object-Oriented Programming
+## 🛠 Technologies Used
+- Python 3
+- Tkinter (GUI)
+- Object-Oriented Programming
